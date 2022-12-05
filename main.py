@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import altair as alt
-import numpy as np
 from pycaret.classification import *
 
 # Use the full page instead of a narrow central column
